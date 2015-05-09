@@ -1,4 +1,4 @@
-(defproject org.clojars.camelpunch/ordinance "0.1.0-SNAPSHOT"
+(defproject org.clojars.camelpunch/ordinance "0.1.0"
   :description "Convert Ordinance Survey coordinates to latitude/longitude"
   :url "https://github.com/camelpunch/ordinance"
   :license {:name "Eclipse Public License"
