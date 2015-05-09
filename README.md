@@ -1,14 +1,14 @@
-# ordinance
+# Ordinance
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library for converting between Ordinance Survey coordinates to Google Maps-useable latitude and longitude.
 
-## Usage
+## Leiningen dependency information:
 
-FIXME
+[org.clojars.camelpunch/ordinance "0.1.0"]
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Andrew Bruce
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
