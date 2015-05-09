@@ -1,6 +1,6 @@
 # Ordinance
 
-A Clojure library for converting between Ordinance Survey coordinates and
+A Clojure library for converting between Ordnance Survey coordinates and
 Google Maps-useable latitude and longitude.
 
 ## Leiningen dependency information:
