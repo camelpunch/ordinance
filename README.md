@@ -5,7 +5,9 @@ Google Maps-useable latitude and longitude.
 
 ## Leiningen dependency information:
 
+```clojure
 [org.clojars.camelpunch/ordinance "0.1.0"]
+```
 
 ## License
 
